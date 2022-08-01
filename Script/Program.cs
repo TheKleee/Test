@@ -38,7 +38,7 @@ namespace TestNS
 
             ints = new int[] { x, y, z, d };
         }
-}
+    }
 }
 #endregion test />
 
