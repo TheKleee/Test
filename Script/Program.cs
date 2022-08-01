@@ -14,7 +14,7 @@ namespace TestNS
         public int[] ints { get; set; } 
     }
 
-    public class Test: iTest
+    public class Test : iTest
     {
         public int[] ints { get; set; }
         public int a, b, c;
