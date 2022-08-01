@@ -1,5 +1,5 @@
 ﻿/*
- * Testing async operations through the Task Main()
+ * Just playing around with classes
  */
 
 using System;
