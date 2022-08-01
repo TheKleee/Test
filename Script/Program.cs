@@ -17,7 +17,7 @@ namespace TestNS
     public class Test : iTest
     {
         public int[] ints { get; set; }
-        public int a, b, c;
+        int a, b, c;
 
         public Test(int a, int b, int c)
         {
@@ -31,7 +31,7 @@ namespace TestNS
 
     public class NewTest : Test
     {
-        public int d;
+        int d;
         public NewTest(int x, int y, int z, int d) : base(x, y, z)
         {
             this.d = d;
